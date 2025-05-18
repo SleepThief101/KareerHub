@@ -1,6 +1,5 @@
 {
-    "env": {
-      "GEMINI_API_KEY": "AIzaSyDlzKnVgdGg2Ccs8qZhT9x7mARlFkRXGj8",
-      "PORT": 3000
-    }
-  }
+  "watch": ["src"],
+  "ext": "js,json",
+  "exec": "node src/index.js"
+}
